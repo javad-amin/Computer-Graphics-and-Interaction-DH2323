@@ -1,0 +1,3 @@
+/mnt/2BC7DF4C492DF2D1/Files/Study/Datalogi 2/DH2323/Labb 3/Rasterisation/CMakeFiles/edit_cache.dir
+/mnt/2BC7DF4C492DF2D1/Files/Study/Datalogi 2/DH2323/Labb 3/Rasterisation/CMakeFiles/rebuild_cache.dir
+/mnt/2BC7DF4C492DF2D1/Files/Study/Datalogi 2/DH2323/Labb 3/Rasterisation/CMakeFiles/ThirdLab.dir

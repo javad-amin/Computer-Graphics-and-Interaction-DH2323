@@ -1,0 +1,3 @@
+/mnt/2BC7DF4C492DF2D1/Files/Study/Datalogi 2/DH2323/Labb 1/Starfield/CMakeFiles/edit_cache.dir
+/mnt/2BC7DF4C492DF2D1/Files/Study/Datalogi 2/DH2323/Labb 1/Starfield/CMakeFiles/rebuild_cache.dir
+/mnt/2BC7DF4C492DF2D1/Files/Study/Datalogi 2/DH2323/Labb 1/Starfield/CMakeFiles/FirstLab.dir
